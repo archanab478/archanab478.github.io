@@ -47,11 +47,11 @@ Hello. I am Archana B, a Research Scholar at VNIT, Nagpur. I work in Image Proce
 
 1. Transformer-Based Multi-Class Classification of Legal Cases for Predicting Case Outcomes
 Objective: Predict legal case outcomes through multi-class classification using transformer-based pre-trained language models.
-Dataset: 24,985 legal case records from Kaggle, including attributes such as case-id, case-title, and case-text.
+Dataset: 24,985 legal case records from Kaggle, including attributes such as case-id, case title, and case text.
 Model: Transformer-based model categorizing cases into ten distinct outcome labels.
 Training Parameters: Hyperparameters like epochs, batch size, and learning rate were fine-tuned during training.
 Performance Metrics: Achieved average scores of precision (0.54), recall (0.41), and F-score (0.42).
-Conclusion: Transformer models show potential in supporting judicial decision-making by accurately predicting legal case outcomes.
+Conclusion: Transformer models show the potential to support judicial decision-making by accurately predicting legal case outcomes.
 Technology: Python, PyTorch, Kaggle Dataset
 2. Comparison of Clustering Algorithms Using the KNIME Tool
 Objective: Compare K-means and Fuzzy C-means (FCM) clustering algorithms for categorizing data into meaningful clusters.
@@ -61,11 +61,11 @@ Analysis: Assessed clustering results from K-means and FCM on diverse data types
 Findings: Highlights how clustering techniques enhance data organization and reveal insights for web mining applications.
 Technology: Java 7, KNIME 2.10
 3. Web Usage Mining Using Clustering
-Objective: Cluster website users into groups to analyze user navigation behavior through fuzzy clustering.
+Objective: Cluster website users into groups to analyze user navigation behaviour through fuzzy clustering.
 Clustering Methods: Partition-based clustering: Partitions data, with each partition representing a cluster.
-Hierarchical-based clustering: Creates hierarchical decomposition using three linkage methods: Single linkage, complete linkage, and average linkage.
+Hierarchical-based clustering creates hierarchical decomposition using three linkage methods: single linkage, complete linkage, and average linkage.
 Performance Evaluation: Evaluated using cophenetic parameters.
-Results: Average linkage method achieved the highest cophenetic value (0.9673), compared to single (0.9444) and complete (0.9671) linkage methods.
+Results: Average linkage method achieved the highest cophenetic value (0.9673) compared to single (0.9444) and complete (0.9671) linkage methods.
 Technology: C#.Net, MySQL
 
 
