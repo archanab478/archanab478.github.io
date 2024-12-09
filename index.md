@@ -1,6 +1,6 @@
 ## Portfolio
 
-Hello, I am Archana B, a Research Scholar at VNIT, Nagpur, working in Image Processing and Natural language processing to automate Geometry Problem-solving.
+Hello. I am Archana B, a Research Scholar at VNIT, Nagpur. I work in Image Processing and Natural language processing to automate Geometry Problem-solving systems.
 
 ### Education
 
