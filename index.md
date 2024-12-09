@@ -2,14 +2,7 @@
 
 Hello. I am Archana B, a Research Scholar at VNIT, Nagpur. I work in Image Processing and Natural language processing to automate Geometry Problem-solving systems.
 
-### Education
-
-* Visvesvaraya National Institute of Technology (NIT-Nagpur Maharashtra)              2021-2024
-  - Pursuing Ph.D.
-* Sipna COEP, Amravati (Maharashtra)                                                  2012-2014
-  - M.Tech
-* Government COE, Amravati (Maharashtra)                                              2003-2007                                                          
-  
+            
 ### Research Interests
 * Computer Vision. Natural Language Processing
 
