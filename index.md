@@ -2,7 +2,15 @@
 
 ---
 
-### Category Name 1 
+### Education
+
+* Visvesvaraya National Institute of Technology (NIT-Nagpur)              2021-2024
+  - Pursuing Ph.D.                                                      
+  
+
+
+
+
 
 [Project 1 Title](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
